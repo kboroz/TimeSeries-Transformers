@@ -1,7 +1,7 @@
 ### 001 - 12.12.22
 
 Next steps: 
-- Run armagarch model in huggingface 
+- Run https://github.com/iankhr/armagarch model in huggingface 
 - Data: Use Yahoo Finance 
     - https://finance.yahoo.com/quote/DAX/history?p=DAX
     - https://finance.yahoo.com/quote/%5EIXIC/history?p=%5EIXIC
